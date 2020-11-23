@@ -4,6 +4,8 @@ Prod 生产
 
 git branch BranchName
 
+你好
+
 git checkout BranchName
 
 
@@ -16,6 +18,10 @@ git branch
 
 生产你好我是 master
 
+减少222减少
+
+减少222减少
+
 git branch -d uat
 
 Hello Prod
@@ -27,4 +33,3 @@ Hello Prod
 git Test 2
 
 HHH
-
