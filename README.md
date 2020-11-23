@@ -18,7 +18,6 @@ git branch
 
 生产你好我是 master
 
-<<<<<<< HEAD
 增加Test1增加
 
 增加Test2增加
