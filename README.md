@@ -10,7 +10,7 @@ git checkout BranchName
 
 git checkout -b uat
 
-
+我是 Test2
 
 git branch
 
@@ -20,11 +20,9 @@ git branch -d uat
 
 Hello Prod
 
-
+我是 Test1
 
 ....
-
-
 
 git Test 2
 
